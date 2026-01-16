@@ -1,0 +1,5 @@
+TIPO;CODICE;DESTINAZIONE;GIORNI;PREZZO_BASE;DISPONIBILE;DATI_SPECIFICI
+Citta;PKG-0001;Berlino;3;49.000000;1;1;1;3 stelle
+Mare;PKG-0002;Hawaii;7;300.000000;1;0;Mezza pensione;0
+Montagna;PKG-0003;Everest;5;420.000000;1;0;3;Difficile
+Avventura;PKG-0004;Giungla;4;89.000000;1;Rafting|Liane;Medio;1
